@@ -35,3 +35,18 @@ body{
     height: 100%;
     width: 100%;
 }
+
+.myforms{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 20px;
+      width: 200px;
+    margin-bottom: 10px;
+  }
+  #sourceForm{
+    background-color: yellow;
+  }
+  #targetForm{
+    background-color: lightgreen;
+  }
